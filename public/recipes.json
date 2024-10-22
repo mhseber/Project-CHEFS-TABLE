@@ -1,0 +1,95 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Garlic Shrimp",
+        "recipe_image": "https://example.com/images/shrimp.jpg",
+        "short_description": "A quick and delicious shrimp dish with a spicy garlic kick.",
+        "ingredients": [
+            "Shrimp",
+            "Garlic",
+            "Olive Oil",
+            "Chili Flakes",
+            "Lemon Juice",
+            "Parsley"
+        ],
+        "preparing_time": "15 min",
+        "calories": 250
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Avocado Toast",
+        "recipe_image": "https://example.com/images/avocado_toast.jpg",
+        "short_description": "Healthy and easy avocado toast topped with a squeeze of lime and chili flakes.",
+        "ingredients": [
+            "Avocado",
+            "Whole Grain Bread",
+            "Lime",
+            "Chili Flakes",
+            "Salt"
+        ],
+        "preparing_time": "10 min",
+        "calories": 200
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Chocolate Banana Smoothie",
+        "recipe_image": "https://example.com/images/smoothie.jpg",
+        "short_description": "A rich and creamy smoothie made with bananas and cocoa powder.",
+        "ingredients": [
+            "Banana",
+            "Almond Milk",
+            "Cocoa Powder",
+            "Honey",
+            "Ice"
+        ],
+        "preparing_time": "5 min",
+        "calories": 180
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Classic Margherita Pizza",
+        "recipe_image": "https://example.com/images/pizza.jpg",
+        "short_description": "A simple and classic Margherita pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "Pizza Dough",
+            "Tomato Sauce",
+            "Fresh Mozzarella",
+            "Basil",
+            "Olive Oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": 400
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Vegan Chickpea Curry",
+        "recipe_image": "https://example.com/images/chickpea_curry.jpg",
+        "short_description": "A hearty and creamy chickpea curry with coconut milk and spices.",
+        "ingredients": [
+            "Chickpeas",
+            "Coconut Milk",
+            "Onion",
+            "Garlic",
+            "Curry Powder",
+            "Spinach"
+        ],
+        "preparing_time": "25 min",
+        "calories": 350
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Blueberry Oatmeal Pancakes",
+        "recipe_image": "https://example.com/images/pancakes.jpg",
+        "short_description": "Fluffy pancakes made with oats and loaded with fresh blueberries.",
+        "ingredients": [
+            "Oats",
+            "Eggs",
+            "Milk",
+            "Blueberries",
+            "Baking Powder",
+            "Honey"
+        ],
+        "preparing_time": "20 min",
+        "calories": 300
+    }
+]
