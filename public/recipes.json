@@ -2,7 +2,7 @@
     {
         "recipe_id": 1,
         "recipe_name": "Spicy Garlic Shrimp",
-        "recipe_image": "https://example.com/images/shrimp.jpg",
+        "recipe_image": "https://media.istockphoto.com/id/1420207604/photo/pan-fried-butter-garlic-shrimp-on-plate.jpg?s=612x612&w=0&k=20&c=i_v6LFlzuGSPTjTsUJFrJ2BdGflloJWiPqRwyoaejQo=",
         "short_description": "A quick and delicious shrimp dish with a spicy garlic kick.",
         "ingredients": [
             "Shrimp",
@@ -18,7 +18,7 @@
     {
         "recipe_id": 2,
         "recipe_name": "Avocado Toast",
-        "recipe_image": "https://example.com/images/avocado_toast.jpg",
+        "recipe_image": "https://www.skinnytaste.com/wp-content/uploads/2015/01/Avocado-Toast-with-Egg-7-480x270.jpg",
         "short_description": "Healthy and easy avocado toast topped with a squeeze of lime and chili flakes.",
         "ingredients": [
             "Avocado",
@@ -33,7 +33,7 @@
     {
         "recipe_id": 3,
         "recipe_name": "Chocolate Banana Smoothie",
-        "recipe_image": "https://example.com/images/smoothie.jpg",
+        "recipe_image": "https://www.shutterstock.com/image-photo/chocolate-smoothie-banana-on-rustic-600nw-619854164.jpg",
         "short_description": "A rich and creamy smoothie made with bananas and cocoa powder.",
         "ingredients": [
             "Banana",
@@ -48,7 +48,7 @@
     {
         "recipe_id": 4,
         "recipe_name": "Classic Margherita Pizza",
-        "recipe_image": "https://example.com/images/pizza.jpg",
+        "recipe_image": "https://img.freepik.com/premium-photo/classic-margherita-pizza-with-red-pepper-flakes-delicious-food-image-photography_1020697-331629.jpg",
         "short_description": "A simple and classic Margherita pizza with fresh tomatoes, mozzarella, and basil.",
         "ingredients": [
             "Pizza Dough",
@@ -63,7 +63,7 @@
     {
         "recipe_id": 5,
         "recipe_name": "Vegan Chickpea Curry",
-        "recipe_image": "https://example.com/images/chickpea_curry.jpg",
+        "recipe_image": "https://thumbs.dreamstime.com/b/vegan-curry-chickpeas-vegetables-tomatoes-cauliflower-42099182.jpg",
         "short_description": "A hearty and creamy chickpea curry with coconut milk and spices.",
         "ingredients": [
             "Chickpeas",
@@ -79,7 +79,7 @@
     {
         "recipe_id": 6,
         "recipe_name": "Blueberry Oatmeal Pancakes",
-        "recipe_image": "https://example.com/images/pancakes.jpg",
+        "recipe_image": "https://www.laurafuentes.com/wp-content/uploads/2024/03/Blueberry-oat-pancakes_post_04.jpg",
         "short_description": "Fluffy pancakes made with oats and loaded with fresh blueberries.",
         "ingredients": [
             "Oats",
